@@ -20,7 +20,7 @@ bio: Mes recherches portent sur la littérature espagnole contemporaine.
 interests:
 - Littérature espagnole
 - études contemporaines
-- Humanités numériques
+- corps, intime, écriture
 
 # Education to show in About widget
 education:
@@ -50,9 +50,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ #- icon: cv
+ #  icon_pack: ai
+ #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine. Il prépare une thèse dans le cadre de l'école doctorale Sciences Sociales et Humanités de l'UPPA, en partenariat avec le laboratoire Arts/Langages Transitions Relations (ALTER).
+Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine et sur les notions de corps et d'intime. Il prépare une thèse sur les romans de Marta Sanz et d'Elvira Navarro, dans le cadre de l'école doctorale Sciences Sociales et Humanités de l'UPPA, et en partenariat avec le laboratoire Arts/Langages Transitions Relations (ALTER).
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
