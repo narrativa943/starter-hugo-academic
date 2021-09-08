@@ -11,7 +11,7 @@ role: Doctorant en langues et littératures étrangères
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université de Pau et des Pays de l'Adour
-  url: https://univ-pau.fr/
+  url: https://www.univ-pau.fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes recherches portent sur la littérature espagnole contemporaine.
@@ -37,9 +37,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/narrativa_
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4605-674X
+- icon: hal
+  icon_pack: ai
+  link: https://hal.archives-ouvertes.fr/search/index/?q=*&authIdHal_s=flying-kadath-jrprecioso
 - icon: github
   icon_pack: fab
   link: https://github.com/narrativa943
