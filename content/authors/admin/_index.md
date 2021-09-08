@@ -55,12 +55,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jrprecioso@tutanota.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine. Il prépare une thèse dans le cadre de l'école doctorale Sciences Sociales et Humanités de l'UPPA, en partenariat avec le laboratoire Arts/Langages Transitions Relations (ALTER).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
