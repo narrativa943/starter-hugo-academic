@@ -29,7 +29,7 @@ education:
     institution: Université de Nice Sophia Antipolis
     year: 2017
   - course: Baccalauréat littéraire option internationale
-    institution: Centre Internationale de Valbonne
+    institution: Centre International de Valbonne
     year: 2012
 
 # Social/Academic Networking
