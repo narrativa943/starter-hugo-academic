@@ -12,6 +12,9 @@ role: Doctorant en langues et littératures étrangères
 organizations:
 - name: Université de Pau et des Pays de l'Adour
   url: https://www.univ-pau.fr
+- name: Laboratoire Arts/Langages Transitions & Relations
+  url: https://alter.univ-pau.fr/fr/index.html
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes recherches portent sur la littérature espagnole contemporaine.
