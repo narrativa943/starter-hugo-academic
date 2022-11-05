@@ -64,8 +64,6 @@ email: "jr.precioso@univ-pau.fr"
 highlight_name: false
 ---
 
-Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine et l'intime. Il prépare une thèse sous la direction de Madame Pascale Peyraga, sur les romans de Marta Sanz et d'Elvira Navarro.
-
-<a class="masto-link" rel="me" href="https://social.sciences.re/@jprecioso">Find me on Mastodon</a>
+Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine et l'intime. Il prépare une thèse sous la direction de Madame Pascale Peyraga, sur les romans de Marta Sanz et d'Elvira Navarro. <a class="masto-link" rel="me" href="https://social.sciences.re/@jprecioso">Find me on Mastodon</a>
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
