@@ -58,7 +58,7 @@ social:
  #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jr.precioso@univ-pau.fr"
+email: "jprecioso@tuta.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
