@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jon-Roméo Precioso
+title: Jon Precioso
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Doctorant en langues et littératures étrangères
+role: Doctorant.e en langues et littératures étrangères
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,6 +64,6 @@ email: "jprecioso@tuta.com"
 highlight_name: false
 ---
 
-Jon-Roméo Precioso est doctorant à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine et l'intime. Il prépare une thèse sous la direction de Madame Pascale Peyraga, sur les romans de Marta Sanz et d'Elvira Navarro.
+Jon Precioso est doctorant.e à l'Université de Pau. Ses recherches portent sur la littérature espagnole contemporaine et l'intime. Iel prépare une thèse sous la direction de Madame Pascale Peyraga, sur les romans de Marta Sanz et d'Elvira Navarro.
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
