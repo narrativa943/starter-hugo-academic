@@ -6,7 +6,7 @@ title: Jon Precioso
 superuser: true
 
 # Role/position/tagline
-role: Doctorant.e en langues et littératures étrangères
+role: Ex doctorant.e en langues et littératures étrangères
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,9 +21,9 @@ bio: Mes recherches portent sur la littérature espagnole contemporaine.
 
 # Interests to show in About widget
 interests:
-- Littérature espagnole
+- Littérature
 - études contemporaines
-- intime, écriture
+- bibliothèques et humanités numériques
 
 # Education to show in About widget
 education:
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- #- icon: cv
- #  icon_pack: ai
- #  link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jprecioso@tuta.com"
