@@ -66,4 +66,4 @@ highlight_name: false
 
 De formation hispaniste depuis la Licence, j'ai effectué des études de doctorat à l'université de Pau. Mes recherches entamées en 2018 portaient sur la littérature espagnole contemporaine, sur le corps et l'intime. Ayant interrompu ce parcours, je me projette dans une reconversion vers d'autres champs de recherche ou types d'activité. Je m'intéresse à tout ce qui concerne le livre, la culture et l'art, en relation avec les mutations du monde contemporain : bibliothèques, internet, humanités numériques, information et documentation, archivisme.
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
