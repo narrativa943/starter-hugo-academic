@@ -21,9 +21,9 @@ bio: Mes recherches portent sur la littérature espagnole contemporaine.
 
 # Interests to show in About widget
 interests:
-- Littérature
-- études contemporaines
-- bibliothèques et humanités numériques
+- Oeuvres d'art et de littérature
+- Époque contemporaine
+- Bibliothèques, documentation et humanités numériques
 
 # Education to show in About widget
 education:
@@ -64,6 +64,6 @@ email: "jprecioso@tuta.com"
 highlight_name: false
 ---
 
-De formation hispaniste depuis la Licence, j'ai effectué des études de doctorat à l'université de Pau. Mes recherches entamées en 2018 portaient sur la littérature espagnole contemporaine, sur le corps et l'intime. Ayant interrompu ce parcours, je me projette dans une reconversion vers d'autres champs de recherche ou types d'activité. Je m'intéresse à tout ce qui concerne le livre, la culture et l'art, en relation avec les mutations du monde contemporain : bibliothèques, internet, humanités numériques, information et documentation, archivisme.
+De formation hispaniste depuis la Licence, j'ai effectué des études de doctorat à l'université de Pau. Mes recherches entamées en 2018 portaient sur la littérature espagnole contemporaine, sur le corps et l'intime. Ayant interrompu ce parcours, je me projette dans une reconversion vers d'autres champs de recherche ou types d'activité. Je m'intéresse à tout ce qui concerne les livres, la culture et la connaissance, en relation avec les évolutions du numérique.
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
